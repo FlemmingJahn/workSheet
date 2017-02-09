@@ -1,3 +1,4 @@
+Thursday 2017-February-9: PoE issues JR2
 Wednesday 2017-February-8: Checking Bugzilla about LEDs for Serval board
 Wednesday 2017-February-8: Code review
 Wednesday 2017-February-8: MFI tool

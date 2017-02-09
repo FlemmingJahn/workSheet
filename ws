@@ -23,10 +23,6 @@ def checkOptions options
     opts.banner = "Usage: [Text] [option]"
     opts.version = 0.1
 
-    opts.on("-s", "--show", "show the last 10 entries.") do |h|
-      options[:show] = true;
-    end
-
     opts.on("-d", "--description", "Prints a description of this script.") do
       puts "If you like me are working in Scrum team, and have to give a daily update, but sometime can't remember what you did yesterday,"
       puts "it is nice to have quick way to store the tasks you have done in a worksheet text file."
@@ -39,7 +35,7 @@ def checkOptions options
       puts "ws I fixed bug number xxxx"
       puts ""
       puts "Example: Show the 10 lines of your work-sheet (just before go to daily scrum meeting :)"
-      puts "ws -s"
+      puts "ws"
       exit
     end
 
