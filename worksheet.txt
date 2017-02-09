@@ -1,0 +1,15 @@
+Wednesday 2017-February-8: Checking Bugzilla about LEDs for Serval board
+Wednesday 2017-February-8: Code review
+Wednesday 2017-February-8: MFI tool
+Wednesday 2017-February-8: FAN controller
+Wednesday 2017-February-8: Greeen ethernet transfer
+***********************************************
+
+Monday 2017-February-6: 3.60 JR1 i2c investagation
+Monday 2017-February-6: Port smoke test
+Monday 2017-February-6: sfp link flap
+***********************************************
+
+2017-February-3: 3.60 bug SFP CU error message
+2017-February-3: LLDP transfer
+2017-February-3: Friday meeting
